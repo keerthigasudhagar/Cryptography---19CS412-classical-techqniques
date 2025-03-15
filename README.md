@@ -1,4 +1,4 @@
-# Cryptography---19CS412-classical-techqniques
+![image](https://github.com/user-attachments/assets/3ccae821-5975-4b81-ad32-817711876876)![image](https://github.com/user-attachments/assets/3fc3eb06-d07b-43b4-82e8-d246cf671c32)# Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values,m
 
@@ -70,8 +70,7 @@ if (isupper(plain[i]) && (cipher[i] > 'Z'))
 ```
 ## OUTPUT:
 OUTPUT:
-
-<img width="406" alt="cry 1" src="https://github.com/user-attachments/assets/4cf76945-7aeb-4b50-a85b-4b1e737cc353" />
+<img width="945" alt="crrrr" src="https://github.com/user-attachments/assets/70516212-4118-4b8b-bf48-6866db71c776" />
 
 ## RESULT:
 The program is executed successfully
