@@ -267,8 +267,8 @@ int main() {
 
 
 ## OUTPUT:
-Output:
-![377319144-68073362-617b-4698-aa44-9f8e4ad02ed6](https://github.com/user-attachments/assets/81c6c520-3294-44ea-86d6-264f901594d1)
+
+![image](https://github.com/user-attachments/assets/32f172ec-7aed-4f0a-a84e-5e5054e14fc3)
 
 
 ## RESULT:
