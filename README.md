@@ -333,13 +333,10 @@ int main()
 }
 ```
 ## OUTPUT:
-OUTPUT:
+
 <img width="218" alt="02 cry" src="https://github.com/user-attachments/assets/92d3e4f8-ecd3-4783-a965-65d5c1c9ca66" />
 
 
-
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
@@ -439,12 +436,9 @@ int main()
 ```
 
 ## OUTPUT:
-OUTPUT :
+
 <img width="280" alt="03 cry" src="https://github.com/user-attachments/assets/01fb4040-a8ab-4e30-ae06-3d31a12a75f4" />
 
-
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
